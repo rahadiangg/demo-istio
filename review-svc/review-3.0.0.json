@@ -1,0 +1,30 @@
+{
+    "version": "3.0.0",
+    "data": [
+        {
+            "customer_name": "Kaesang",
+            "review": "Makanannya enak, gurih-gurih nyoi",
+            "star": 4.5
+        },
+        {
+            "customer_name": "Subaidi",
+            "review": "Nasinya kok sedikit, tolong di tambahin dong porsinya",
+            "star": 2.0
+        },
+        {
+            "customer_name": "Maemunah",
+            "review": "Mantul. Pedesnya pas harga tetep masuk dikanong mahasiswa",
+            "star": 5
+        },
+        {
+            "customer_name": "Eko Paryadi",
+            "review": "Pesenya 'seafood' malah yang dateng 'siput'. Gimana sih!!!",
+            "star": 2.5
+        },
+        {
+            "customer_name": "Djokiw",
+            "review": "Gak tau aku bingung, soalnya yang pesen cuami acu hehe",
+            "star": 4.5
+        }
+    ]
+}

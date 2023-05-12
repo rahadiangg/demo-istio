@@ -1,0 +1,4 @@
+configs:
+  - endpoint: /reviews
+    defaultCode: 200
+    file: review-1.0.0.json

@@ -1,0 +1,6 @@
+FROM rahadiangg/serve-json:0.0.1
+
+ENV CONFIG="review-3.0.0.yaml"
+ENV PORT=8000
+
+COPY *-3.0.0* .

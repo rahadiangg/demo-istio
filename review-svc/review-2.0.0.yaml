@@ -1,0 +1,4 @@
+configs:
+  - endpoint: /reviews
+    defaultCode: 200
+    file: review-2.0.0-failed.json # expected, the app will return file not exist

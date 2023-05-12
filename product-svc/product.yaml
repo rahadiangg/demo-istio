@@ -1,0 +1,4 @@
+configs:
+  - endpoint: /products
+    defaultCode: 200
+    file: products.json
