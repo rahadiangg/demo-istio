@@ -5,8 +5,8 @@ import Narvbar from './components/navbar'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Mantap Food',
-  description: 'Dashboard Mantap Food',
+  title: 'SiFood',
+  description: 'Dashboard SiFood',
 }
 
 export default function RootLayout({
