@@ -12,7 +12,9 @@ There a 3 service is here such as `dashboard-svc` for frontend, also `product-sv
 PRODUCT_URI=http://localhost/products
 REVIEW_URI=http://localhost/reviews
 ```
+## Port
 
+For `dashboard-svc` will working on port 3000 and both of backend working on port 8000
 ## Simulate canary / AB testing
 
 To simulate canary or AB testing deployment you can use `review-svc`. There is 3 version for `review-svc` such as:
